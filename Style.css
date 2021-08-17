@@ -23,6 +23,7 @@ a{
 	outline: none;
 	font-size: 15px;
 	cursor: pointer;
+	font-family: arial;
 }
 .fas{
 	margin: 20px;
@@ -35,9 +36,18 @@ a{
 }
 .home{
 	padding: 20px;
+	font-family:arial;
+	font-size: 18px;
 }
 .home:hover{
 	color: red;
+}
+.latest{
+	font-family: arial;
+	font-size: 18px;
+}
+.latest:hover{
+	color:red;
 }
 .fa-search{
 	margin-left: 370px;
@@ -49,6 +59,11 @@ a{
 }
 .featured{
 	margin: 20px;
+	font-family: arial;
+	font-size: 18px;
+}
+.featured:hover{
+	color:red;
 }
 .image{
 	margin: 10px;
@@ -851,9 +866,3 @@ button:last-child:hover{
 	height: 80px;
 	width: auto;
 }
-
-
-
-
-
-
