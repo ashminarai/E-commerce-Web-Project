@@ -108,6 +108,7 @@ a{
 .ln{
 	margin: 2px;
 	margin-left: 250px;
+	font-family: arial;
 	color: blue;
 }
 .login{
@@ -196,6 +197,7 @@ a{
 .in{
 	margin: 2px;
 	margin-left: 250px;
+	font-family: arial;
 	color: blue;
 }
 .scolumns{
