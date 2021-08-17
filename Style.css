@@ -822,6 +822,11 @@ button:last-child:hover{
 
 /*Featured Products CSS ends*/
 
+
+
+/*Footer CSS starts*/
+
+
 .footer-content{
 	height: 350px;
 	width: 100%;
@@ -830,6 +835,9 @@ button:last-child:hover{
 }
 .footer{
 	margin-left: 20px;
+}
+.footer .f-img{
+	display: flex;
 }
 .footer h3{
 	margin: 20px;
@@ -846,23 +854,30 @@ button:last-child:hover{
 	font-size: 13px;
 }
 .qr{
-	height: 100px;
+	height: 60px;
 	width: auto;
 	padding: 30px;
 }
 .footer img{
 	margin-left: 30px;
 }
-.store{
-	margin-left: 10px;
+.footer .store{
+	margin-left: 40px;
+
 }
-.store{
-	margin-left: 20px;
-	height: 60px;
-	width: auto;
+.f-img{
+	margin: 10px;
 }
 .getit{
-	margin: 150px;
+	margin: 130px;
 	height: 80px;
 	width: auto;
 }
+.store{
+	padding-left: 20px;
+	height: 80px;
+	width: auto;
+}
+
+
+/*Footer CSS ends*/
