@@ -11,7 +11,7 @@ html{
 	width: 100%;
 	background-color: white;
 	font-size: 20px;
-	box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 10px 15px #0000001a;
 }
 a{
 	text-decoration: none;
@@ -706,13 +706,13 @@ button:last-child:hover{
 /*Featured Products CSS starts*/
 
 .featured-content h2{
-	margin-left: 620px;
+	margin-left: 585px;
 	font-family: arial;
 }
 .featured-line{
-	margin-left: 670px;
+	margin-left: 650px;
 	height: 5px;
-	width: 100px;
+	width: 80px;
 	background-color: orange;
 	border-radius: 5px;
 
