@@ -252,14 +252,14 @@ a{
 
 .latest-content{
 	margin: 20px;
-	margin-left: 650px;
+	margin-left: 610px;
 	font-family: arial;
 }
 .line{
 	height: 5px;
-	width: 100px;
+	width: 80px;
 	background-color: orange;
-	margin-left: 20px;
+	margin-left: 40px;
 	border-radius: 5px;
 }
 .wrapper-1{
