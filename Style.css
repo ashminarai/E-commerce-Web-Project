@@ -556,6 +556,7 @@ button:last-child:hover{
 .sabuttons{
 	margin: 20px;
 	margin-left: 150px;
+	display: none;
 }
 .sbutn1{
 	margin-left: 70px;
